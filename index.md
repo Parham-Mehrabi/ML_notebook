@@ -7,7 +7,8 @@
 |concept | description | link|  
 |:-:|:-:|:-:| 
 | model evaluation | evaluating model performance | [link](./model_evaluation.ipynb) |   
-
+| bootstrapping | an introduction to bootstrapping technique | [link](./bootstrapping.ipynb)|
+| d-fold cross | d-fold(k-fold) cross technique and its uses | [link](./d_fold_cross_validation.ipynb)|
 
 <br>
 <br>
